@@ -1,0 +1,13 @@
+{
+  "timestamp": "20251226_111532",
+  "input_file": "new.png",
+  "output_file": "new_20251226_111532\\new2.png",
+  "run_folder": "new_20251226_111532",
+  "image_size": [
+    1176,
+    882
+  ],
+  "output_quality": 95,
+  "preserve_format": false,
+  "success": true
+}
